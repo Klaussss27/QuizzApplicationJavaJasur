@@ -1,0 +1,45 @@
+
+
+1, Scarcity, Limited resources to meet unlimited wants, necessitating choices and allocations.
+1, Opportunity Cost, Cost of the next best alternative given up when making a choice.
+1, Demand, Consumers' willingness and ability to purchase goods at different prices.
+1, Supply, Total amount of a good available to consumers, varies with price.
+1, Market Equilibrium, Market state where quantity demanded equals quantity supplied; no surplus or shortage.
+1, Elasticity, Measure of responsiveness of demand or supply to price changes.
+1, Marginal Utility, Additional satisfaction gained from consuming one more unit of a good.
+1, Factors of Production, Inputs used for producing goods: land, labor, capital, entrepreneurship.
+1, Comparative Advantage, Ability to produce goods at a lower opportunity cost than others.
+1, Gross Domestic Product (GDP), Total value of all goods and services produced domestically in a timeframe.
+
+2, Price Elasticity of Demand, Measure of how quantity demanded responds to a price change.
+2, Income Elasticity of Demand, Indicates how demand varies with consumer income changes.
+2, Cross Elasticity of Demand, Shows demand responsiveness to price changes of another good.
+2, Price Elasticity of Supply, Measures how quantity supplied responds to a price change.
+2, Market Disequilibrium, Situation where market supply and demand are not balanced.
+2, Excess Demand, When quantity demanded exceeds quantity supplied at a price.
+2, Excess Supply, When quantity supplied surpasses quantity demanded at a price.
+2, Consumer Surplus, Difference between what consumers are willing to pay and actually pay.
+2, Producer Surplus, Difference between what producers are willing to accept and actually receive.
+2, Price Controls, Government-imposed limits on prices charged for goods and services.
+
+3, Perfect Competition, Market structure with many firms, identical products, and no barriers to entry.
+3, Monopolistic Competition, Market with many firms, differentiated products, and few entry barriers.
+3, Oligopoly, Market dominated by a few large firms, significant barriers to entry.
+3, Monopoly, Market with a single firm, unique product, and high entry barriers.
+3, Natural Monopoly, Market where a single firm can supply goods more efficiently than multiple firms.
+3, Price Discrimination, Charging different prices to different consumers for the same product.
+3, Market Failure, Situation where the market does not allocate resources efficiently on its own.
+3, Externalities, Costs or benefits affecting third parties not involved in a transaction.
+3, Public Goods, Goods non-excludable and non-rivalrous in consumption, like national defense.
+3, Merit Goods, Goods under-consumed and under-produced in a free market, like vaccinations.
+
+4, Fiscal Policy, Government policy using taxation and spending to influence the economy.
+4, Expansionary Fiscal Policy, Increases government spending or decreases taxes to stimulate economic growth.
+4, Contractionary Fiscal Policy, Decreases government spending or increases taxes to cool down the economy.
+4, Monetary Policy, Central bank actions managing the money supply and interest rates.
+4, Expansionary Monetary Policy, Increases money supply or lowers interest rates to stimulate economic activity.
+4, Contractionary Monetary Policy, Reduces money supply or raises interest rates to control inflation.
+4, Supply-Side Policies, Policies aimed at increasing aggregate supply to stimulate economic growth.
+4, Inflation, General increase in prices and fall in the purchasing value of money.
+4, Unemployment, Condition of people actively looking for employment but not currently employed.
+4, Balance of Payments, Record of all economic transactions between residents of a country and the rest of the world.
